@@ -192,7 +192,7 @@ li:hover .arrowdown{
 }
 .learn{
     color: var(--AlmostBlack);
-    cursor: kf;
+    cursor: pointer;
     border: solid 1px;
     border-radius: 17px;
     font-weight: 500;
